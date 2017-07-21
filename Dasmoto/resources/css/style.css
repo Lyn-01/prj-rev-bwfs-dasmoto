@@ -10,21 +10,21 @@ h1 {
   background-image: url(/Dasmoto/resources/images/pattern.jpeg);
 }
 
-h2 {
+.item h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
-.brushes h2 {
+#brush {
   background-color: mediumspringgreen;
 }
 
-.frames h2{
+#frame {
   background-color: lightcoral;
 }
 
-.paint h2 {
+#paint {
   background-color: skyblue;
 }
 
