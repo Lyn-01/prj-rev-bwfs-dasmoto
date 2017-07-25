@@ -7,7 +7,7 @@ h1 {
   font-size: 100px;
   font-weight: bold;
   text-align: center;
-  background-image: url(/Dasmoto/resources/images/pattern.jpeg);
+  background-image: url("../images/pattern.jpeg");
 }
 
 .item h2 {
